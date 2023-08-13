@@ -1,4 +1,4 @@
-module github.com/bitcartcc/go-github-selfupdate
+module github.com/bitcart/go-github-selfupdate
 
 require (
 	github.com/blang/semver v3.5.1+incompatible

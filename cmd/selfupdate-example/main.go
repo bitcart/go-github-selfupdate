@@ -4,7 +4,7 @@ import (
 	"flag"
 	"fmt"
 	"github.com/blang/semver"
-	"github.com/bitcartcc/go-github-selfupdate/selfupdate"
+	"github.com/bitcart/go-github-selfupdate/selfupdate"
 	"os"
 )
 

@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/bitcartcc/go-github-selfupdate/selfupdate"
+	"github.com/bitcart/go-github-selfupdate/selfupdate"
 	"os"
 	"regexp"
 	"strings"
